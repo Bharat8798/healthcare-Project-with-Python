@@ -1,7 +1,9 @@
-# healthcare-Project-with-Python
+# Healthcare-Project-with-Python
 
 Cardiovascular diseases are the leading cause of death globally. To identify the causes and to develop a system to predict heart attack in an effective manner is necessary. The presented data has all information about all the relevant factors that might have an impact on heart health. The data needs to be explained in detail for any further analysis.
+
 Preliminary analysis:
+
 Perform preliminary data inspection and report the findings as the structure of the data, missing values, duplicates etc.
 
 Based on the findings from the previous question remove duplicates (if any) , treat missing values using appropriate strategy.
