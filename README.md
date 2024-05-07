@@ -8,15 +8,15 @@ Preliminary analysis:
  
 
 Prepare an informative report about the data explaining distribution of the disease and the related factors. You could use the below approach to achieve the objective
-1 Get a preliminary statistical summary of the data. Explore the measures of central tendencies and the spread of the data overall.
-2 Identify the data variables which might be categorical in nature. Describe and explore these variables using appropriate tools e.g. count plot
-3 Study the occurrence of CVD across Age.
-4 Study the composition of overall patients w.r.t . Gender.
-5 Can we detect heart attack based on anomalies in Resting Blood Pressure of the patient?
-6 Describe the relationship between Cholesterol levels and our target variable.
-7 What can be concluded about the relationship between peak exercising and occurrence of heart attack.
-8 Is thalassemia a major cause of CVD?
-9 How are the other factors determining the occurrence of CVD?
-10 Use a pair plot to understand the relationship between all the given variables.
+1. Get a preliminary statistical summary of the data. Explore the measures of central tendencies and the spread of the data overall.
+2. Identify the data variables which might be categorical in nature. Describe and explore these variables using appropriate tools e.g. count plot
+3. Study the occurrence of CVD across Age.
+4. Study the composition of overall patients w.r.t . Gender.
+5. Can we detect heart attack based on anomalies in Resting Blood Pressure of the patient?
+6. Describe the relationship between Cholesterol levels and our target variable.
+7. What can be concluded about the relationship between peak exercising and occurrence of heart attack.
+8. Is thalassemia a major cause of CVD?
+9. How are the other factors determining the occurrence of CVD?
+10. Use a pair plot to understand the relationship between all the given variables.
 
 3. Build a baseline model to predict using a Logistic Regression and explore the results.
